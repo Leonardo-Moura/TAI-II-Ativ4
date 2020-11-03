@@ -1,0 +1,4 @@
+> Programador: Visualizar tarefa que ele está fazendo, com descrição, tags e tempo estimado
+> Gerente de Projeto: Cadastrar tarefa, com descrição, estimativa de tempo e checkbox de conclusão
+> Assistente Administrativo: Levantamento de requisitos dos clientes, com data de entrega e valor do contrato
+
